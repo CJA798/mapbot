@@ -1,6 +1,7 @@
 Adafruit-Blinka==8.0.2
 adafruit-circuitpython-as7341==1.2.8
 adafruit-circuitpython-busdevice==5.1.10
+adafruit-circuitpython-lsm6ds==4.5.2
 adafruit-circuitpython-register==1.9.10
 adafruit-circuitpython-typing==1.7.1
 adafruit-circuitpython-vl53l4cd==1.1.0
