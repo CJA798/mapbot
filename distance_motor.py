@@ -39,5 +39,6 @@ while True:
         kit.continuous_servo[0].throttle = 1
     else:
         kit.continuous_servo[0].throttle = 0.1
+        kit.continuous_servo[1].throttle = 0.1
 
 
