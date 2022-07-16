@@ -26,3 +26,4 @@ while True:
     print(df.head())
     df.to_csv(filename)
     time.sleep(2)
+
