@@ -19,7 +19,7 @@ vl53 = adafruit_vl53l4cd.VL53L4CD(i2c)
 
 # OPTIONAL: can set non-default values
 vl53.inter_measurement = 0
-vl53.timing_budget = 200
+vl53.timing_budget = 100
 
 print("VL53L4CD Simple Test.")
 print("--------------------")
