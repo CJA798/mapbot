@@ -79,7 +79,7 @@ def stop():
         kit.continuous_servo[i].throttle = 0.1
 
 def rotate():
-    left_motor.throttle = 0.25
+    left_motor.throttle = -0.3
     right_motor.throttle = 0.4
     
 
